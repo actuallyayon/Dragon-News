@@ -2,7 +2,7 @@
 
 A full-stack news web application built with Next.js 16, MongoDB, and Better Auth. Features secure user authentication with email/password and social login via Google and GitHub.
 
-**Live Demo:** *(add your Vercel URL here)*
+**Live :** *(https://dragon-news-pi-ivory.vercel.app/)*
 
 ---
 
